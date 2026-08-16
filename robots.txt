@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-tqu7cy.soatsuras.top/sitemap.xml
